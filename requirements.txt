@@ -1,0 +1,6 @@
+transformers
+tqdm
+faiss-cpu
+python-dotenv
+sentence-transformers
+langchain

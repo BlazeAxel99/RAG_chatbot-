@@ -1,0 +1,7 @@
+LangChain is a framework for building applications with language models. 
+It simplifies chaining LLM calls and connecting them with external data sources like APIs or files.
+
+LangChain supports tools like OpenAI, HuggingFace, FAISS, ChromaDB, and many more. 
+It is commonly used to build chatbots, retrieval-augmented generation (RAG) pipelines, and autonomous agents.
+
+LangChain also provides document loaders, text splitters, embedding tools, and vector stores for semantic search.
